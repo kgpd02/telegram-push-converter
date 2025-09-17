@@ -93,11 +93,17 @@ class PushExcelConverter:
                         
                         i += 1
                     
-                    # Добавляем пуш только если есть хотя бы один перевод
-                    if push_translations:
+                    # Фильтруем пустые переводы
+                    filtered_translations = {}
+                    for lang, translation in push_translations.items():
+                        if translation["title"].strip() or translation["message"].strip():
+                            filtered_translations[lang] = translation
+                    
+                    # Добавляем пуш только если есть хотя бы один непустой перевод
+                    if filtered_translations:
                         push_data = {
                             "id": f"push_{str(push_id).zfill(3)}",
-                            "translations": push_translations
+                            "translations": filtered_translations
                         }
                         category_result["pushes"].append(push_data)
                         push_id += 1
