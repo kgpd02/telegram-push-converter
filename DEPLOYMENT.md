@@ -239,9 +239,23 @@ ssh -T git@github.com
 git clone https://github.com/kgpd02/telegram-push-converter.git
 ```
 
-### Проблема: "ModuleNotFoundError"
+### Проблема: "ModuleNotFoundError" или "ImportError: cannot import name 'Update' from 'telegram'"
 ```bash
+# Решение конфликта библиотек telegram
+cd telegram-push-converter
+source venv/bin/activate
+
+# Удаляем конфликтующие пакеты
+pip uninstall telegram python-telegram-bot -y
+
+# Устанавливаем правильную версию
+pip install python-telegram-bot==20.7
+
+# Или переустанавливаем все зависимости
 pip install -r requirements.txt
+
+# Проверяем
+python3 -c "from telegram import Update; print('Импорт успешен')"
 ```
 
 ### Проблема: "Invalid token"
