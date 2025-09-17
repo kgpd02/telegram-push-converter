@@ -177,9 +177,31 @@ TG_push_bot/
 3. Изучите примеры в этом README
 4. Протестируйте парсер с помощью `test_parser.py`
 
+## 🚀 Деплой на GitHub
+
+### Создание репозитория
+
+1. **Создайте новый репозиторий на GitHub:**
+   - Название: `telegram-push-converter`
+   - Описание: `🤖 Telegram bot for converting Excel push notifications to JSON format`
+
+2. **Подключите локальный репозиторий:**
+   ```bash
+   git remote add origin https://github.com/YOUR_USERNAME/telegram-push-converter.git
+   git push -u origin main
+   ```
+
+3. **Детальные инструкции** смотрите в файле `DEPLOYMENT.md`
+
+## 🔗 Полезные ссылки
+
+- [📚 Telegram Bot API](https://core.telegram.org/bots/api)
+- [🐍 python-telegram-bot Documentation](https://python-telegram-bot.readthedocs.io/)
+- [📊 pandas Documentation](https://pandas.pydata.org/docs/)
+
 ---
 
 **Версия:** 1.0.0  
-**Автор:** Push Notifications Converter Bot  
+**Репозиторий:** [GitHub](https://github.com/YOUR_USERNAME/telegram-push-converter)  
 **Лицензия:** MIT
 
