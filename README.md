@@ -187,7 +187,7 @@ TG_push_bot/
 
 2. **Подключите локальный репозиторий:**
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/telegram-push-converter.git
+   git remote add origin git@github.com:kgpd02/telegram-push-converter.git
    git push -u origin main
    ```
 
@@ -202,6 +202,6 @@ TG_push_bot/
 ---
 
 **Версия:** 1.0.0  
-**Репозиторий:** [GitHub](https://github.com/YOUR_USERNAME/telegram-push-converter)  
+**Репозиторий:** [GitHub](https://github.com/kgpd02/telegram-push-converter)  
 **Лицензия:** MIT
 

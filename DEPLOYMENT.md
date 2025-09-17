@@ -33,13 +33,11 @@ gh repo create telegram-push-converter --public --description "🤖 Telegram bot
 
 ```bash
 # Добавляем удаленный репозиторий
-git remote add origin https://github.com/YOUR_USERNAME/telegram-push-converter.git
+git remote add origin git@github.com:kgpd02/telegram-push-converter.git
 
 # Отправляем код на GitHub
 git push -u origin main
 ```
-
-**Замените `YOUR_USERNAME` на ваше имя пользователя GitHub!**
 
 ## ⚙️ Настройка для запуска
 
@@ -101,7 +99,7 @@ telegram-push-converter/
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/YOUR_USERNAME/telegram-push-converter.git
+git clone git@github.com:kgpd02/telegram-push-converter.git
 cd telegram-push-converter
 
 # Настраиваем окружение
@@ -182,4 +180,4 @@ pip install -r requirements.txt
 
 ## 📞 Поддержка
 
-Если возникли проблемы, создайте [Issue на GitHub](https://github.com/YOUR_USERNAME/telegram-push-converter/issues) с описанием проблемы и логами.
+Если возникли проблемы, создайте [Issue на GitHub](https://github.com/kgpd02/telegram-push-converter/issues) с описанием проблемы и логами.
