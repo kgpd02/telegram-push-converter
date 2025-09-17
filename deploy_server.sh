@@ -60,9 +60,21 @@ source venv/bin/activate
 echo "🔄 Обновляю pip..."
 pip install --upgrade pip
 
+# Очищаем возможные конфликты
+echo "🧹 Очищаю возможные конфликты пакетов..."
+pip uninstall telegram python-telegram-bot -y 2>/dev/null || true
+
 # Устанавливаем зависимости
 echo "📦 Устанавливаю зависимости..."
 pip install -r requirements.txt
+
+# Проверяем установку
+echo "✅ Проверяю корректность установки..."
+python3 -c "from telegram import Update; print('✅ python-telegram-bot установлен корректно')" || {
+    echo "❌ Ошибка импорта telegram библиотеки!"
+    echo "💡 Попробуйте вручную: pip uninstall telegram python-telegram-bot -y && pip install python-telegram-bot==20.7"
+    exit 1
+}
 
 # Создаем .env файл если его нет
 if [ ! -f ".env" ]; then
