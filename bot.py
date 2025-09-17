@@ -26,6 +26,13 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+def escape_markdown(text: str) -> str:
+    """Экранирует специальные символы для Markdown."""
+    special_chars = ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']
+    for char in special_chars:
+        text = text.replace(char, f'\\{char}')
+    return text
+
 class PushExcelConverter:
     """Класс для конвертации Excel файлов с пуш-уведомлениями в JSON."""
     
@@ -304,14 +311,17 @@ class TelegramBot:
                     total_languages = len(list(categories_data.values())[0]['languages'])
                     total_categories = len(categories_data)
                     
+                    # Экранируем специальные символы для Markdown
+                    safe_filename = escape_markdown(document.file_name)
+                    
                     info_message = (
                         "**✅ Конвертация завершена!**\n\n"
-                        f"**📁 Исходный файл:** `{document.file_name}`\n"
-                        f"**📊 Найдено языков:** `{total_languages}`\n"
-                        f"**📋 Найдено категорий:** `{total_categories}`\n\n"
-                        f"**🌍 Языки:** {', '.join(f'`{lang}`' for lang in list(categories_data.values())[0]['languages'])}\n\n"
-                        f"**📦 Создано файлов:** `{len(json_files_paths)}`\n"
-                        "*Отправляю отдельные JSON файлы для каждой категории...* 🚀"
+                        f"**📁 Исходный файл:** {safe_filename}\n"
+                        f"**📊 Найдено языков:** {total_languages}\n"
+                        f"**📋 Найдено категорий:** {total_categories}\n\n"
+                        f"**🌍 Языки:** {', '.join(list(categories_data.values())[0]['languages'])}\n\n"
+                        f"**📦 Создано файлов:** {len(json_files_paths)}\n"
+                        "*Отправляю отдельные JSON файлы для каждой категории\\.\\.\\. 🚀*"
                     )
                     
                     await processing_msg.edit_text(info_message, parse_mode='Markdown')
@@ -322,11 +332,14 @@ class TelegramBot:
                         category_data = list(categories_data.values())[i]
                         
                         with open(json_file_path, 'rb') as json_file:
+                            # Экранируем название категории
+                            safe_category = escape_markdown(category_name)
+                            
                             caption = (
-                                f"**📋 Категория: {category_name}**\n\n"
-                                f"**🎯 Пушей в категории:** `{len(category_data['pushes'])}`\n"
-                                f"**🌍 Языков:** `{len(category_data['languages'])}`\n\n"
-                                f"*Файл готов к использованию!* ✨"
+                                f"**📋 Категория:** {safe_category}\n\n"
+                                f"**🎯 Пушей в категории:** {len(category_data['pushes'])}\n"
+                                f"**🌍 Языков:** {len(category_data['languages'])}\n\n"
+                                "*Файл готов к использованию\\!* ✨"
                             )
                             
                             await update.message.reply_document(
