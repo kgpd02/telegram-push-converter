@@ -187,7 +187,12 @@ TG_push_bot/
 
 2. **Подключите локальный репозиторий:**
    ```bash
+   # SSH (рекомендуется, если настроены SSH ключи)
    git remote add origin git@github.com:kgpd02/telegram-push-converter.git
+   
+   # Или HTTPS (если SSH ключи не настроены)
+   git remote add origin https://github.com/kgpd02/telegram-push-converter.git
+   
    git push -u origin main
    ```
 
