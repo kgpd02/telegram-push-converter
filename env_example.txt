@@ -1,0 +1,8 @@
+# Токен Telegram бота
+# Получить можно у @BotFather в Telegram
+# 1. Найдите @BotFather в Telegram
+# 2. Отправьте команду /newbot
+# 3. Следуйте инструкциям и получите токен
+# 4. Скопируйте этот файл в .env и замените значение токена
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+

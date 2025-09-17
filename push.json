@@ -1,0 +1,835 @@
+{
+    "languages": [
+      "en",
+      "ar",
+      "de",
+      "es",
+      "fr",
+      "in",
+      "it",
+      "ja",
+      "pt"
+    ],
+    "pushes": [
+      {
+        "id": "push_001",
+        "translations": {
+          "en": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "ar": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "de": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "es": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "fr": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "in": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "it": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "ja": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          },
+          "pt": {
+            "title": "Pure Heat",
+            "message": "She just uploaded a spicy video. Wanna see?"
+          }
+        }
+      },
+      {
+        "id": "push_002",
+        "translations": {
+          "en": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "ar": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "de": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "es": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "fr": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "in": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "it": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "ja": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          },
+          "pt": {
+            "title": "She`s Typing…",
+            "message": "You`ve got a new message. Check it now!"
+          }
+        }
+      },
+      {
+        "id": "push_003",
+        "translations": {
+          "en": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "ar": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "de": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "es": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "fr": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "in": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "it": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "ja": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          },
+          "pt": {
+            "title": "Limited Time",
+            "message": "Hot profiles unlocked — don`t miss out."
+          }
+        }
+      },
+      {
+        "id": "push_004",
+        "translations": {
+          "en": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "ar": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "de": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "es": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "fr": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "in": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "it": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "ja": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          },
+          "pt": {
+            "title": "Nearby & Naughty",
+            "message": "A hot girl is online just 1km away. Want to meet her?"
+          }
+        }
+      },
+      {
+        "id": "push_005",
+        "translations": {
+          "en": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "ar": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "de": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "es": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "fr": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "in": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "it": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "ja": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          },
+          "pt": {
+            "title": "Late Night Trouble",
+            "message": "She can`t sleep. Can you keep her company tonight?"
+          }
+        }
+      },
+      {
+        "id": "push_006",
+        "translations": {
+          "en": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "ar": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "de": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "es": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "fr": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "in": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "it": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "ja": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          },
+          "pt": {
+            "title": "Just For You",
+            "message": "She picked you. Find out why."
+          }
+        }
+      },
+      {
+        "id": "push_007",
+        "translations": {
+          "en": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "ar": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "de": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "es": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "fr": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "in": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "it": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "ja": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          },
+          "pt": {
+            "title": "Flirt Mission",
+            "message": "Seduce her in 5 minutes. Are you in?"
+          }
+        }
+      },
+      {
+        "id": "push_008",
+        "translations": {
+          "en": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "ar": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "de": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "es": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "fr": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "in": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "it": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "ja": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          },
+          "pt": {
+            "title": "She Liked You",
+            "message": "She liked your profile. Say hi!"
+          }
+        }
+      },
+      {
+        "id": "push_009",
+        "translations": {
+          "en": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "ar": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "de": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "es": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "fr": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "in": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "it": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "ja": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          },
+          "pt": {
+            "title": "No Shame",
+            "message": "Look what she just sent you…"
+          }
+        }
+      },
+      {
+        "id": "push_010",
+        "translations": {
+          "en": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "ar": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "de": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "es": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "fr": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "in": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "it": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "ja": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          },
+          "pt": {
+            "title": "10 Minutes Left",
+            "message": "She`s online — but not for long. Hurry!"
+          }
+        }
+      },
+      {
+        "id": "push_011",
+        "translations": {
+          "en": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "ar": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "de": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "es": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "fr": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "in": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "it": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "ja": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          },
+          "pt": {
+            "title": "You Won`t Believe It",
+            "message": "Guess who`s online near you…"
+          }
+        }
+      },
+      {
+        "id": "push_012",
+        "translations": {
+          "en": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "ar": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "de": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "es": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "fr": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "in": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "it": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "ja": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          },
+          "pt": {
+            "title": "After Midnight",
+            "message": "Late night chat is open. Adults only."
+          }
+        }
+      },
+      {
+        "id": "push_013",
+        "translations": {
+          "en": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "ar": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "de": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "es": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "fr": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "in": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "it": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "ja": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          },
+          "pt": {
+            "title": "She`s Waiting",
+            "message": "Just for you. Ready to open it?"
+          }
+        }
+      },
+      {
+        "id": "push_014",
+        "translations": {
+          "en": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "ar": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "de": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "es": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "fr": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "in": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "it": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "ja": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          },
+          "pt": {
+            "title": "You Turn Her On",
+            "message": "She wants you to text her. Right now."
+          }
+        }
+      },
+      {
+        "id": "push_015",
+        "translations": {
+          "en": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "ar": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "de": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "es": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "fr": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "in": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "it": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "ja": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          },
+          "pt": {
+            "title": "You`re In",
+            "message": "You`ve been added to a special chat. Take a peek."
+          }
+        }
+      },
+      {
+        "id": "push_016",
+        "translations": {
+          "en": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "ar": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "de": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "es": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "fr": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "in": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "it": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "ja": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          },
+          "pt": {
+            "title": "15-Minute Window",
+            "message": "VIP girls unlocked — just for 15 minutes!"
+          }
+        }
+      },
+      {
+        "id": "push_017",
+        "translations": {
+          "en": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "ar": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "de": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "es": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "fr": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "in": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "it": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "ja": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          },
+          "pt": {
+            "title": "Dark Desires",
+            "message": "After midnight, desires come alive…"
+          }
+        }
+      },
+      {
+        "id": "push_018",
+        "translations": {
+          "en": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "ar": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "de": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "es": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "fr": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "in": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "it": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "ja": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          },
+          "pt": {
+            "title": "Around the Corner",
+            "message": "She wants you. And she`s very close…"
+          }
+        }
+      },
+      {
+        "id": "push_019",
+        "translations": {
+          "en": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "ar": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "de": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "es": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "fr": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "in": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "it": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "ja": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          },
+          "pt": {
+            "title": "Secret Message",
+            "message": "Only you can unlock it…"
+          }
+        }
+      },
+      {
+        "id": "push_020",
+        "translations": {
+          "en": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "ar": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "de": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "es": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "fr": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "in": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "it": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "ja": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          },
+          "pt": {
+            "title": "She`s Watching",
+            "message": "She`s online, staring at her screen… Will you text her?"
+          }
+        }
+      }
+    ]
+  }
