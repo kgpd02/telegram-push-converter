@@ -151,9 +151,12 @@ telegram-push-converter/
 ### На VPS/Dedicated сервере:
 
 ```bash
-# Клонируем репозиторий
-git clone git@github.com:kgpd02/telegram-push-converter.git
+# Клонируем репозиторий (HTTPS - рекомендуется для серверов)
+git clone https://github.com/kgpd02/telegram-push-converter.git
 cd telegram-push-converter
+
+# Альтернативно SSH (требует настройки ключей на сервере)
+# git clone git@github.com:kgpd02/telegram-push-converter.git
 
 # Настраиваем окружение
 python3 -m venv venv
@@ -212,6 +215,29 @@ sudo systemctl status telegram-push-bot
 5. **Получите JSON файлы** для каждой категории
 
 ## 🔧 Troubleshooting
+
+### Проблема: "Repository not found" при клонировании
+```bash
+# РЕШЕНИЕ 1: Используйте HTTPS вместо SSH (рекомендуется для серверов)
+git clone https://github.com/kgpd02/telegram-push-converter.git
+
+# РЕШЕНИЕ 2: Настройте SSH ключи на сервере
+ssh-keygen -t ed25519 -C "server@yourdomain.com"
+cat ~/.ssh/id_ed25519.pub
+# Добавьте публичный ключ в GitHub: https://github.com/settings/keys
+ssh -T git@github.com  # Тест соединения
+
+# РЕШЕНИЕ 3: Проверьте права доступа к репозиторию
+```
+
+### Проблема: "Permission denied" при SSH
+```bash
+# Проверьте SSH соединение
+ssh -T git@github.com
+
+# Если не работает, используйте HTTPS
+git clone https://github.com/kgpd02/telegram-push-converter.git
+```
 
 ### Проблема: "ModuleNotFoundError"
 ```bash
